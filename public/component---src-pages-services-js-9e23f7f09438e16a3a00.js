@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[8],{wCYt:function(e,t,l){"use strict";l.r(t);var n=l("q1tI"),a=l.n(n),r=l("Bl7J"),c=l("vrFN");t.default=function(){return a.a.createElement(r.a,null,a.a.createElement(c.a,{title:"Service"}),a.a.createElement("h1",null,"Service Page"),a.a.createElement("p",null,"Wow. Also Such Empty."),a.a.createElement("p",null,"There'll be stuff here I promise!"))}}}]);
+//# sourceMappingURL=component---src-pages-services-js-9e23f7f09438e16a3a00.js.map
