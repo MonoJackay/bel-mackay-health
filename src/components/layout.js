@@ -28,7 +28,6 @@ const Layout = ({ children }) => {
       <Header siteTitle={data.site.siteMetadata.title} />
       <div
         style={{
-          alignContent: `center`,
           margin: `0 auto`,
           maxWidth: 1140,
           padding: `0 1.0875rem 1.45rem`,
@@ -36,9 +35,8 @@ const Layout = ({ children }) => {
       >
         <main>{children}</main>
         <footer>
-          © {new Date().getFullYear()}, Built by
+          © {new Date().getFullYear()} of Bel Macky Health, All Rights Reserved 
           {` `}
-          <a href="https://www.gatsbyjs.org">Jono Mackay</a>
         </footer>
       </div>
     </>
