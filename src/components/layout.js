@@ -30,12 +30,12 @@ const Layout = ({ children }) => {
         style={{
           margin: `0 auto`,
           maxWidth: 1140,
-          padding: `0 1.0875rem 1.45rem`
+          padding: `0 1.0875rem 1.45rem`,
         }}
       >
         <main>{children}</main>
-        <footer>
-          © {new Date().getFullYear()} of Bel Macky Health, All Rights Reserved 
+        <footer style={{ fontSize: `13px`, float: `right` }}>
+          © {new Date().getFullYear()} All Rights Reserved.
           {` `}
         </footer>
       </div>

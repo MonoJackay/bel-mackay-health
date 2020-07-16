@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{Yave:function(e,l,a){"use strict";a.r(l);var t=a("q1tI"),n=a.n(t),r=a("Bl7J"),s=a("vrFN");l.default=function(){return n.a.createElement(r.a,null,n.a.createElement(s.a,{title:"Service"}),n.a.createElement("h1",null,"Classes Page"),n.a.createElement("p",null,"Wow. This is where you'll have all your classes."),n.a.createElement("p",null,"There'll be stuff here I promise!"))}}}]);
-//# sourceMappingURL=component---src-pages-classes-js-9c971679e91c22214e3a.js.map

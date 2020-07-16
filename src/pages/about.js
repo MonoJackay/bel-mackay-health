@@ -3,13 +3,13 @@ import React from "react"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 
-  const AboutPage = () =>  (
-    <Layout>
+const AboutPage = () => (
+  <Layout>
     <SEO title="About" />
-      <h1>About Page</h1>
-      <p>Wow. Such Empty.</p>
-      <p>Don't worry, content is coming!</p>
-    </Layout>
-  )
+    <h1>Hi people</h1>
+    <p>Welcome to your new Gatsby site.</p>
+    <p>Now go build something great.</p>
+  </Layout>
+)
 
 export default AboutPage
