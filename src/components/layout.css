@@ -10,6 +10,8 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+/*Styled Components styles*/
+
 article,
 aside,
 details,
@@ -115,10 +117,6 @@ textarea {
   font: inherit;
   margin: 0;
 }
-Button,
-Button.Outline {
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif !important;
-}
 optgroup {
   font-weight: 700;
 }
@@ -208,7 +206,7 @@ html {
 body {
   color: hsla(0, 0%, 0%, 0.8);
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-  Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif !important;
+  Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
   font-weight: normal;
   word-wrap: break-word;
   font-kerning: normal;

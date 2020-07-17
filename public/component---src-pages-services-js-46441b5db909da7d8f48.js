@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[8],{wCYt:function(e,t,n){"use strict";n.r(t);var l=n("q1tI"),a=n.n(l),r=n("Bl7J"),o=n("vrFN");t.default=function(){return a.a.createElement(r.a,null,a.a.createElement(o.a,{title:"Services"}),a.a.createElement("h1",null,"Hi people"),a.a.createElement("p",null,"Welcome to your new Gatsby site."),a.a.createElement("p",null,"Now go build something great."))}}}]);
+//# sourceMappingURL=component---src-pages-services-js-46441b5db909da7d8f48.js.map
