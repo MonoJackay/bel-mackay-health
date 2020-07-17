@@ -14,7 +14,8 @@ const IndexPage = () => (
           <h1>Welcome!</h1>
           <p>This is my Yoga Website!</p>
           <p>Going to be adding my stuff soon so we can do yoga!</p>
-           <div style={{ paddingRight: `1rem` }}><Button>Make a Booking</Button>
+           <div style={{ paddingRight: `1rem` }}>
+             <Button>Make a Booking</Button>
             <Button.Outline>Contact Info</Button.Outline>
             </div>
         </div>
