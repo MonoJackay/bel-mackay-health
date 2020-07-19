@@ -1,6 +1,5 @@
 import React from "react"
 
-import { Button } from "@gympass/yoga"
 import { Link } from "gatsby"
 import PropTypes from "prop-types"
 
@@ -41,7 +40,6 @@ const Header = ({ siteTitle }) => (
           <ListItem to="/services">Services</ListItem>
           <ListItem to="/classes">Classes</ListItem>
           <ListItem to="/contact">Contact</ListItem>
-          <Button>Book Now!</Button>
         </ul>
       </div>
     </div>
